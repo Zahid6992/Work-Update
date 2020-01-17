@@ -1,0 +1,7 @@
+Hello Sir,
+I'm Zahid Hasan, Here is my working progress.
+    1. First of all, I search for every topic and I learn what is it and how it works.
+    2. I downloaded some of the required software. Such as sublime text 2, Python 2.7, PostgreSQL 12.
+    3. After that, I learned how to create a database in PostgreSQL. Then I learned to do the insert, update, delete command in PostgreSQL. 
+    4. I saw too many videos on youtube about flask framework.
+    5. And lastly, I learned how to post on Github.
