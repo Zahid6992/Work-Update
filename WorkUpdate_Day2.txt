@@ -1,0 +1,9 @@
+Hello Sir,
+ Here is my working progress(Day-2). 
+     1. Learn Flask for Python.
+     2. Install flask and setup flask.
+     3. Rebuild the flowchart and take decisions about steps.
+     4. I saw many videos on youtube about PostgreSQL.
+
+Thanks
+Zahid Hasan
